@@ -42,7 +42,7 @@ Below is a graph showing the average popularity scores for each genre. The highe
 <img src = "/graphs/avg%20popularity%20score%20per%20genre%20bar.jpg" width = 700>
 <br>
 As you can see, the top five most popular genres are Science Fiction, Romance, Horror, Fantasy, and Sci-Fi & Fantasy, where Sci-Fi & Fantasy is actually a separate category from both Science Fiction and Fantasy. One potential implication of this is that if Fantasy is added to Science Fiction or vice versa, the popularity would drop compared to the popularity the show would have had if either genre were alone.
-<br><br>
+<br><br><br>
 Below shows a box plot that compares the popularity scores for each genre: 
 <br>
 <img src = "/graphs/avg%20popularity%20score%20per%20genre%20box.jpg" width = 700>
