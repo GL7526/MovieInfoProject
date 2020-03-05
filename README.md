@@ -25,7 +25,7 @@ This is a project that looks into the most popular genres today for TV shows, wo
 
 ## Results
 
-#### IMDb
+### IMDb
 Below is a bar graph showing the average ranking for each genre. The lower the ranking's value, the more popular the genre is\:
 <br>
 <img src = "/graphs/avg%20popularity%20rating%20per%20genre%20bar.jpg" width = 700>
@@ -35,7 +35,7 @@ According to The top 5 most popular genres are Fantasy, Animation, Horror, Roman
 
 <br>
 
-#### The Movie Database (TMDb)
+### The Movie Database (TMDb)
 <br>
 Below is a graph showing the average popularity scores for each genre. The higher the popularity score, the more popular the genre is:
 <br>
