@@ -55,7 +55,6 @@ The genres that stand out with the highest medians are Science Fiction, Romance,
 <br>
 
 ## Conclusion
-<br>
 The information from both IMDb and TMDb tells us that the most popular genres are Fantasy, Horror, Science Fiction, Romance, and Animation, with a few other genres in very close competition. If we were to create a new show for a streaming platform similar to Netflix, these genres would be safe to stick to. 
 <br>
 One thing to note, however, is that there are relatively few shows that are considered Science Fiction, Romance, and Horror from the data. You can even see that there is only one observation of a Science Fiction show from the box plots. Another way to view this is that this is an emerging niche. Even though there are currently few shows at the top, those that do become popular do relatively "well." 
