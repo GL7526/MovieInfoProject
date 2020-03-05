@@ -19,7 +19,7 @@ This is a project that looks into the most popular genres today for TV shows, wo
   <li>Number of users who added it to their "watchlist" for the day</li>
   <li>Next/last episode to air date</li> 
   <li>Number of total votes</li> 
-  <li>Previous days score)</li>
+  <li>Previous days score</li>
 </ul>
 <br>
 
