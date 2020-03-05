@@ -13,7 +13,7 @@ This is a project that looks into the most popular genres today for TV shows, wo
 <p> Afterwards, information on the top 380 shows was gathered from The Movie Database's API. The metric for popularity used here is The Movie Database's "Popularity Score," whose calculations are hidden but told to be from various relevant stats, which include: </p>
 
 <ul>
-  <li>"Number of votes for the day</li>
+  <li>Number of votes for the day</li>
   <li>Number of views for the day</li>
   <li>Number of users who marked it as a "favourite" for the day</li>
   <li>Number of users who added it to their "watchlist" for the day</li>
