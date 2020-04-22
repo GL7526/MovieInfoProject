@@ -28,7 +28,9 @@ This is a project that looks into the most popular genres today for TV shows, wo
 ### IMDb
 Below is a bar graph showing the average ranking for each genre. The lower the ranking's value, the more popular the genre is\:
 <br>
-<img src = "/graphs/avg%20popularity%20rating%20per%20genre%20bar.jpg" width = 700>
+<p align = "center">
+  <img src = "/graphs/avg%20popularity%20rating%20per%20genre%20bar.jpg" width = 700>
+</p>
 <br>
 According to The top 5 most popular genres are Fantasy, Animation, Horror, Romance, and Adventure.
 
@@ -39,19 +41,25 @@ According to The top 5 most popular genres are Fantasy, Animation, Horror, Roman
 <br>
 Below is a graph showing the average popularity scores for each genre. The higher the popularity score, the more popular the genre is:
 <br>
-<img src = "/graphs/avg%20popularity%20score%20per%20genre%20bar.jpg" width = 700>
+<p align = "center">
+  <img src = "/graphs/avg%20popularity%20score%20per%20genre%20bar.jpg" width = 700>
+</p>
 <br>
 As you can see, the top five most popular genres are Science Fiction, Romance, Horror, Fantasy, and Sci-Fi & Fantasy, where Sci-Fi & Fantasy is actually a separate category from both Science Fiction and Fantasy. One potential implication of this is that if Fantasy is added to Science Fiction or vice versa, the popularity would drop compared to the popularity the show would have had if either genre were alone.
 <br><br><br>
 Below shows a box plot that compares the popularity scores for each genre: 
 <br>
-<img src = "/graphs/avg%20popularity%20score%20per%20genre%20box.jpg" width = 700>
+<p align = "center">
+  <img src = "/graphs/avg%20popularity%20score%20per%20genre%20box.jpg" width = 700>
+</p>
 <br>
 The genres that stand out with the highest medians are Science Fiction, Romance, Horror, and Fantasy.
 
 <br><br>Zoomed into the top 9 ranked by median:
 <br>
-<img src = "/graphs/avg%20popularity%20score%20per%20genre%20box%20zoomed.jpg" width = 700>
+<p align = "center">
+  <img src = "/graphs/avg%20popularity%20score%20per%20genre%20box%20zoomed.jpg" width = 700>
+</p>
 <br>
 
 ## Conclusion
