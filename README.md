@@ -15,7 +15,7 @@ This is a project that looks into the most popular genres today for TV shows, wo
 <ul>
   <li>Number of votes for the day</li>
   <li>Number of views for the day</li>
-  <li>Number of users who marked it as a "favourite" for the day</li>
+  <li>Number of users who marked it as a "favorite" for the day</li>
   <li>Number of users who added it to their "watchlist" for the day</li>
   <li>Next/last episode to air date</li> 
   <li>Number of total votes</li> 
